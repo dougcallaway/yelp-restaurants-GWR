@@ -49,3 +49,6 @@ Temporary Items
 # Large data files
 [Dd]ata/
 
+# Notebook checkpoints
+.ipynb_checkpoints
+
