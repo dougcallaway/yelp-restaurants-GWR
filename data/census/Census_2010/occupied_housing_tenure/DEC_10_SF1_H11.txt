@@ -1,0 +1,9 @@
+H11
+TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE
+
+Universe: Population in occupied housing units
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+Source: U.S. Census Bureau, 2010 Census.
+

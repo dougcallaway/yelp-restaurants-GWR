@@ -1,0 +1,9 @@
+P11
+HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE FOR THE POPULATION 18 YEARS AND OVER
+
+Universe: Population 18 years and over
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+Source: U.S. Census Bureau, 2010 Census.
+
