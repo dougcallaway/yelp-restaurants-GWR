@@ -1,0 +1,77 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_S01,Number; HOUSEHOLD TYPE - Total households
+HD02_S01,Percent; HOUSEHOLD TYPE - Total households
+HD01_S02,Number; HOUSEHOLD TYPE - Total households - Family households [1]
+HD02_S02,Percent; HOUSEHOLD TYPE - Total households - Family households [1]
+HD01_S03,Number; HOUSEHOLD TYPE - Total households - Family households [1] - Male householder
+HD02_S03,Percent; HOUSEHOLD TYPE - Total households - Family households [1] - Male householder
+HD01_S04,Number; HOUSEHOLD TYPE - Total households - Family households [1] - Female householder
+HD02_S04,Percent; HOUSEHOLD TYPE - Total households - Family households [1] - Female householder
+HD01_S05,Number; HOUSEHOLD TYPE - Total households - Nonfamily households [2]
+HD02_S05,Percent; HOUSEHOLD TYPE - Total households - Nonfamily households [2]
+HD01_S06,Number; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Male householder
+HD02_S06,Percent; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Male householder
+HD01_S07,Number; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Male householder - Living alone
+HD02_S07,Percent; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Male householder - Living alone
+HD01_S08,Number; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Female householder
+HD02_S08,Percent; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Female householder
+HD01_S09,Number; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Female householder - Living alone
+HD02_S09,Percent; HOUSEHOLD TYPE - Total households - Nonfamily households [2] - Female householder - Living alone
+HD01_S10,Number; HOUSEHOLD SIZE - Total households
+HD02_S10,Percent; HOUSEHOLD SIZE - Total households
+HD01_S11,Number; HOUSEHOLD SIZE - Total households - 1-person household
+HD02_S11,Percent; HOUSEHOLD SIZE - Total households - 1-person household
+HD01_S12,Number; HOUSEHOLD SIZE - Total households - 2-person household
+HD02_S12,Percent; HOUSEHOLD SIZE - Total households - 2-person household
+HD01_S13,Number; HOUSEHOLD SIZE - Total households - 3-person household
+HD02_S13,Percent; HOUSEHOLD SIZE - Total households - 3-person household
+HD01_S14,Number; HOUSEHOLD SIZE - Total households - 4-person household
+HD02_S14,Percent; HOUSEHOLD SIZE - Total households - 4-person household
+HD01_S15,Number; HOUSEHOLD SIZE - Total households - 5-person household
+HD02_S15,Percent; HOUSEHOLD SIZE - Total households - 5-person household
+HD01_S16,Number; HOUSEHOLD SIZE - Total households - 6-person household
+HD02_S16,Percent; HOUSEHOLD SIZE - Total households - 6-person household
+HD01_S17,Number; HOUSEHOLD SIZE - Total households - 7-or-more-person household
+HD02_S17,Percent; HOUSEHOLD SIZE - Total households - 7-or-more-person household
+HD01_S18,Number; HOUSEHOLD SIZE - Total households - Average household size
+HD02_S18,Percent; HOUSEHOLD SIZE - Total households - Average household size
+HD01_S19,Number; HOUSEHOLD SIZE - Total households - Average family size
+HD02_S19,Percent; HOUSEHOLD SIZE - Total households - Average family size
+HD01_S20,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3]
+HD02_S20,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3]
+HD01_S21,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years
+HD02_S21,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years
+HD01_S22,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years
+HD02_S22,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years
+HD01_S23,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - Under 6 years only
+HD02_S23,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - Under 6 years only
+HD01_S24,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years
+HD02_S24,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years
+HD01_S25,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - 6 to 17 years only
+HD02_S25,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Families [3] - With related children under 18 years - With own children under 18 years - 6 to 17 years only
+HD01_S26,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families
+HD02_S26,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families
+HD01_S27,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years
+HD02_S27,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years
+HD01_S28,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years
+HD02_S28,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years
+HD01_S29,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - Under 6 years only
+HD02_S29,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - Under 6 years only
+HD01_S30,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years
+HD02_S30,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years
+HD01_S31,Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - 6 to 17 years only
+HD02_S31,Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Husband-wife families - With related children under 18 years - With own children under 18 years - 6 to 17 years only
+HD01_S32,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families"
+HD02_S32,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families"
+HD01_S33,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years"
+HD02_S33,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years"
+HD01_S34,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years"
+HD02_S34,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years"
+HD01_S35,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - Under 6 years only"
+HD02_S35,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - Under 6 years only"
+HD01_S36,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years"
+HD02_S36,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - Under 6 and 6 to 17 years"
+HD01_S37,"Number; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - 6 to 17 years only"
+HD02_S37,"Percent; FAMILY TYPE AND PRESENCE OF RELATED AND OWN CHILDREN - Female householder, no husband present families - With related children under 18 years - With own children under 18 years - 6 to 17 years only"

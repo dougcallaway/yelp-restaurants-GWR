@@ -1,0 +1,16 @@
+QT-P11
+Households and Families: 2010
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+ 
+X Not applicable.	   
+[1] A household that has at least one member of the household related to the householder by birth, marriage, or  adoption is a "Family household."  Same-sex couple households are included in the family households category if there is at least one additional person related to the householder by birth or adoption.  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.  Responses of "same-sex spouse" were edited during processing to "unmarried partner."	   
+[2] "Nonfamily households" consist of people living alone and households which do not have any members related to the householder.	   
+[3] "Families" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.  They do not include same-sex married couples even if the marriage was performed in a state issuing marriage certificates for same-sex couples.  Same-sex couples are included in the families category if there is at least one additional person related to the householder by birth or adoption.  Responses of "same-sex spouse" were edited during processing to "unmarried partner."  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.	 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+
+Summary File 1, Tables P17, P18, P28, P29, P37, P38, and P39.
+

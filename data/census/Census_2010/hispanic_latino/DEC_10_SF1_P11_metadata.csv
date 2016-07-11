@@ -1,0 +1,76 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+D001,Total:
+D002,Hispanic or Latino
+D003,Not Hispanic or Latino:
+D004,Not Hispanic or Latino: - Population of one race:
+D005,Not Hispanic or Latino: - Population of one race: - White alone
+D006,Not Hispanic or Latino: - Population of one race: - Black or African American alone
+D007,Not Hispanic or Latino: - Population of one race: - American Indian and Alaska Native alone
+D008,Not Hispanic or Latino: - Population of one race: - Asian alone
+D009,Not Hispanic or Latino: - Population of one race: - Native Hawaiian and Other Pacific Islander alone
+D010,Not Hispanic or Latino: - Population of one race: - Some Other Race alone
+D011,Not Hispanic or Latino: - Two or More Races:
+D012,Not Hispanic or Latino: - Two or More Races: - Population of two races:
+D013,Not Hispanic or Latino: - Two or More Races: - Population of two races: - White; Black or African American
+D014,Not Hispanic or Latino: - Two or More Races: - Population of two races: - White; American Indian and Alaska Native
+D015,Not Hispanic or Latino: - Two or More Races: - Population of two races: - White; Asian
+D016,Not Hispanic or Latino: - Two or More Races: - Population of two races: - White; Native Hawaiian and Other Pacific Islander
+D017,Not Hispanic or Latino: - Two or More Races: - Population of two races: - White; Some Other Race
+D018,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Black or African American; American Indian and Alaska Native
+D019,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Black or African American; Asian
+D020,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Black or African American; Native Hawaiian and Other Pacific Islander
+D021,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Black or African American; Some Other Race
+D022,Not Hispanic or Latino: - Two or More Races: - Population of two races: - American Indian and Alaska Native; Asian
+D023,Not Hispanic or Latino: - Two or More Races: - Population of two races: - American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+D024,Not Hispanic or Latino: - Two or More Races: - Population of two races: - American Indian and Alaska Native; Some Other Race
+D025,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Asian; Native Hawaiian and Other Pacific Islander
+D026,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Asian; Some Other Race
+D027,Not Hispanic or Latino: - Two or More Races: - Population of two races: - Native Hawaiian and Other Pacific Islander; Some Other Race
+D028,Not Hispanic or Latino: - Two or More Races: - Population of three races:
+D029,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Black or African American; American Indian and Alaska Native
+D030,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Black or African American; Asian
+D031,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Black or African American; Native Hawaiian and Other Pacific Islander
+D032,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Black or African American; Some Other Race
+D033,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; American Indian and Alaska Native; Asian
+D034,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+D035,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; American Indian and Alaska Native; Some Other Race
+D036,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Asian; Native Hawaiian and Other Pacific Islander
+D037,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Asian; Some Other Race
+D038,Not Hispanic or Latino: - Two or More Races: - Population of three races: - White; Native Hawaiian and Other Pacific Islander; Some Other Race
+D039,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; American Indian and Alaska Native; Asian
+D040,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+D041,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; American Indian and Alaska Native; Some Other Race
+D042,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+D043,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; Asian; Some Other Race
+D044,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+D045,Not Hispanic or Latino: - Two or More Races: - Population of three races: - American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+D046,Not Hispanic or Latino: - Two or More Races: - Population of three races: - American Indian and Alaska Native; Asian; Some Other Race
+D047,Not Hispanic or Latino: - Two or More Races: - Population of three races: - American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+D048,Not Hispanic or Latino: - Two or More Races: - Population of three races: - Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D049,Not Hispanic or Latino: - Two or More Races: - Population of four races:
+D050,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; American Indian and Alaska Native; Asian
+D051,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+D052,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; American Indian and Alaska Native; Some Other Race
+D053,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+D054,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; Asian; Some Other Race
+D055,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+D056,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+D057,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; American Indian and Alaska Native; Asian; Some Other Race
+D058,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+D059,Not Hispanic or Latino: - Two or More Races: - Population of four races: - White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D060,Not Hispanic or Latino: - Two or More Races: - Population of four races: - Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+D061,Not Hispanic or Latino: - Two or More Races: - Population of four races: - Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+D062,Not Hispanic or Latino: - Two or More Races: - Population of four races: - Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+D063,Not Hispanic or Latino: - Two or More Races: - Population of four races: - Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D064,Not Hispanic or Latino: - Two or More Races: - Population of four races: - American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D065,Not Hispanic or Latino: - Two or More Races: - Population of five races:
+D066,Not Hispanic or Latino: - Two or More Races: - Population of five races: - White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+D067,Not Hispanic or Latino: - Two or More Races: - Population of five races: - White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+D068,Not Hispanic or Latino: - Two or More Races: - Population of five races: - White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+D069,Not Hispanic or Latino: - Two or More Races: - Population of five races: - White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D070,Not Hispanic or Latino: - Two or More Races: - Population of five races: - White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D071,Not Hispanic or Latino: - Two or More Races: - Population of five races: - Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+D072,Not Hispanic or Latino: - Two or More Races: - Population of six races:
+D073,Not Hispanic or Latino: - Two or More Races: - Population of six races: - White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
